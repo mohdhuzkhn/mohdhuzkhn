@@ -54,13 +54,13 @@ Currently building in the intersection of **AI × business automation** — help
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-**Web & Full-Stack**
+<!-- **Web & Full-Stack**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) -->
 
 **Automation & Tools**
 
@@ -76,7 +76,7 @@ Running **[Code Road](https://www.youtube.com/@CodeRoad-k7k)** — breaking down
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohdhuzkhn&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" height="160"/>
@@ -88,7 +88,7 @@ Running **[Code Road](https://www.youtube.com/@CodeRoad-k7k)** — breaking down
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdhuzkhn&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
----
+--- -->
 
 ## 📬 Let's connect
 
