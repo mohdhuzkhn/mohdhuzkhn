@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Huzaifa Khan 👋</h1>
 
 <p align="center">
-  <strong>AI/ML Engineer · Student Founder · Karachi, Pakistan 🇵🇰</strong><br/>
+  <strong>AI/ML Engineer · Karachi, Pakistan 🇵🇰</strong><br/>
   <em>I don't just study AI — I build with it.</em>
 </p>
 
