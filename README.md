@@ -31,26 +31,17 @@ Currently building in the intersection of **AI × business automation** — help
 
 ---
 
-## 🗂️ Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [🤖 AI-Leads-Generation](https://github.com/mohdhuzkhn/AI-Leads-Generation) | Automates B2B lead enrichment using LLMs and multi-source scraping | Python, LLMs |
-| [📚 RAG-Application-Edu](https://github.com/mohdhuzkhn/RAG-Application-Edu) | Intelligent SaaS Agent that generates professional exam papers from PDFs, images & Excel using multimodal RAG | Python, Streamlit, Gemini |
-| [🎓 Learning_Management_System](https://github.com/mohdhuzkhn/Learning_Management_System) | Full-stack LMS student dashboard | Django, Tailwind CSS, Python |
-| [💻 ITBeat](https://github.com/mohdhuzkhn/ITBeat) | Developer networking platform for sharing IT world updates | JavaScript |
-| [🏫 The-Science-Squad-Centre](https://github.com/mohdhuzkhn/The-Science-Squad-Centre) | Coaching centre website for academic classes (Grades 9–XII) | HTML |
-
----
 
 ## 🧠 AI/ML Skills
 
-```
-LLMs & Prompt Engineering     ████████████░░  RAG (Retrieval-Augmented Generation)  ███████████░░░
-PEFT & Fine-Tuning             █████████░░░░░  HuggingFace Transformers               ██████████░░░░
-Model Evaluation & Debugging   █████████░░░░░  n8n AI Automation Workflows            ████████████░░
-Python                         █████████████░  Machine Learning                        ██████████░░░░
-```
+![LLMs](https://img.shields.io/badge/LLMs%20%26%20Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
+![PEFT](https://img.shields.io/badge/PEFT%20%26%20Fine--Tuning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ModelEval](https://img.shields.io/badge/Model%20Evaluation%20%26%20Debugging-6E40C9?style=for-the-badge&logo=probot&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n%20AI%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-00A67E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
