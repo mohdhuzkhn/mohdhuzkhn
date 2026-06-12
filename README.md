@@ -1,16 +1,114 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Huzaifa Khan 👋</h1>
 
-<!--
-**mohdhuzkhn/mohdhuzkhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>AI/ML Engineer · Student Founder · Karachi, Pakistan 🇵🇰</strong><br/>
+  <em>I don't just study AI — I build with it.</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-huzaifa-6b396a26a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/Huzaifa_khn_">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@CodeRoad-k7k">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=mohdhuzkhn&style=flat-square&color=blue" alt="Profile views"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm building
+
+I'm a CS student at Karachi University focused on turning AI/ML research into **real, deployed products**. My work spans LLM pipelines, RAG systems, AI automation, and full-stack AI applications.
+
+Currently building in the intersection of **AI × business automation** — helping businesses replace manual workflows with intelligent agents.
+
+---
+
+## 🗂️ Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [🤖 AI-Leads-Generation](https://github.com/mohdhuzkhn/AI-Leads-Generation) | Automates B2B lead enrichment using LLMs and multi-source scraping | Python, LLMs |
+| [📚 RAG-Application-Edu](https://github.com/mohdhuzkhn/RAG-Application-Edu) | Intelligent SaaS Agent that generates professional exam papers from PDFs, images & Excel using multimodal RAG | Python, Streamlit, Gemini |
+| [🎓 Learning_Management_System](https://github.com/mohdhuzkhn/Learning_Management_System) | Full-stack LMS student dashboard | Django, Tailwind CSS, Python |
+| [💻 ITBeat](https://github.com/mohdhuzkhn/ITBeat) | Developer networking platform for sharing IT world updates | JavaScript |
+| [🏫 The-Science-Squad-Centre](https://github.com/mohdhuzkhn/The-Science-Squad-Centre) | Coaching centre website for academic classes (Grades 9–XII) | HTML |
+
+---
+
+## 🧠 AI/ML Skills
+
+```
+LLMs & Prompt Engineering     ████████████░░  RAG (Retrieval-Augmented Generation)  ███████████░░░
+PEFT & Fine-Tuning             █████████░░░░░  HuggingFace Transformers               ██████████░░░░
+Model Evaluation & Debugging   █████████░░░░░  n8n AI Automation Workflows            ████████████░░
+Python                         █████████████░  Machine Learning                        ██████████░░░░
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**AI/ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Web & Full-Stack**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Automation & Tools**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📺 I teach on YouTube
+
+Running **[Code Road](https://www.youtube.com/@CodeRoad-k7k)** — breaking down CS and programming concepts for students. Assembly Language series live, AI/ML content coming soon.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdhuzkhn&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdhuzkhn&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdhuzkhn&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## 📬 Let's connect
+
+Open to **freelance AI projects**, **co-founder conversations**, and **collaborations** in AI/ML.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-huzaifa-6b396a26a/) — DM me there for business
+- 🐦 [X / Twitter](https://x.com/Huzaifa_khn_) — I tweet about AI and building in public
+- 📺 [YouTube](https://www.youtube.com/@CodeRoad-k7k) — Code Road tutorials
+
+---
+
+<p align="center">
+  <em>"Build things that matter. Ship before you're ready. Learn in public."</em>
+</p>
