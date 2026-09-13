@@ -1,11 +1,22 @@
-<h1 align="center">Hi, I'm Huzaifa Khan 👋</h1>
-
 <p align="center">
-  <strong>AI/ML Engineer · Karachi, Pakistan 🇵🇰</strong><br/>
-  <em>I don't just study AI — I build with it.</em>
+  <img src="./assets/profile-banner.svg" alt="Huzaifa Khan — AI Engineer" width="100%" />
 </p>
-
 <p align="center">
+  <a href="https://my-portfolio-mohdhuzkhns-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore_My_Second_Brain-0F172A?style=for-the-badge&logo=vercel&logoColor=10B981" alt="Explore my Second Brain for AI Engineering" />
+  </a>
+</p>
+<!-- <p align="center">
+  <a href="https://my-portfolio-mohdhuzkhns-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore_My_Second_Brain-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Explore my Second Brain for AI Engineering" />
+  </a>
+</p> -->
+<!-- <p align="center">
+  <a href="https://my-portfolio-mohdhuzkhns-projects.vercel.app/">
+    Explore my Second Brain for AI Engineering
+  </a>
+</p> -->
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-huzaifa-6b396a26a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -19,7 +30,7 @@
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=mohdhuzkhn&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+</p> -->
 
 ---
 
