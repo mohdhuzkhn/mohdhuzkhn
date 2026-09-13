@@ -1,36 +1,51 @@
-<div align="center">
+<h1 align="center">Hi, I'm Huzaifa Khan 👋</h1>
 
-![Huzaifa Khan — AI Engineer](./assets/profile-banner.svg)
+<p align="center">
+  <strong>AI/ML Engineer · Karachi, Pakistan 🇵🇰</strong><br/>
+  <em>I don't just study AI — I build with it.</em>
+</p>
 
-### AI Engineer building reliable RAG systems, intelligent agents, and products that ship.
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-huzaifa-6b396a26a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/Huzaifa_khn_">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@CodeRoad-k7k">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=mohdhuzkhn&style=flat-square&color=blue" alt="Profile views"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=07111F)](https://www.linkedin.com/in/muhammad-huzaifa-6b396a26a/)
-[![X](https://img.shields.io/badge/X-Follow-B56CFF?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Huzaifa_khn_)
-[![YouTube](https://img.shields.io/badge/YouTube-Code_Road-FF4D8D?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeRoad-k7k)
-![Profile views](https://komarev.com/ghpvc/?username=mohdhuzkhn&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
+---
 
-</div>
+## 🚀 What I'm building
 
-```yaml
-name: Huzaifa Khan
-role: AI / ML Engineer
-location: Karachi, Pakistan
-focus: [RAG, AI Agents, LLM Evaluation, Business Automation]
-currently_building: Production-ready AI products
-open_to: [Freelance Projects, Collaborations, Co-founder Conversations]
-```
+I'm a CS student at Karachi University focused on turning AI/ML research into **real, deployed products**. My work spans LLM pipelines, RAG systems, AI automation, and full-stack AI applications.
 
-## Selected work
+Currently building in the intersection of **AI × business automation** — helping businesses replace manual workflows with intelligent agents.
 
-| Project | What it does | Stack |
-|---|---|---|
-| [NeuroFlow — FYP](https://github.com/mohdhuzkhn/NeuroFlow-Fyp-Project) | Computational hemodynamics platform for cerebral aneurysm rupture-risk assessment using medical imaging, flow simulation, and clinical scoring | DICOM/MRA · Navier–Stokes · 2D/3D Visualization |
-| [AI Text Evaluation](https://github.com/mohdhuzkhn/NLP-Project-AI-Text-Eval) | NLP project for evaluating AI-generated text and analyzing model output quality | NLP · AI Evaluation · Python |
-| [Financial RAG](https://github.com/mohdhuzkhn/RAG-App-Financial) | Anti-hallucination RAG for 10-K/10-Q filings with parent-child retrieval and RAGAS evaluation | Python · RAG · RAGAS |
-| [AI Leads Generation](https://github.com/mohdhuzkhn/AI-Leads-Generation) | Discovers companies, enriches decision-makers, and scores leads through a multi-agent pipeline | CrewAI · FastAPI · Next.js |
-| [AI Learning OS](https://github.com/mohdhuzkhn/AI-Powered-Learning-OS) | Mission-driven, project-based learning platform with scalable application architecture | React · TypeScript · Firebase |
-| [AI Backend CI/CD](https://github.com/mohdhuzkhn/ai-backend-ci-cd) | Production FastAPI pipeline with linting, matrix tests, service containers, and Docker builds | FastAPI · Docker · GitHub Actions |
-| [Exam Paper Agent](https://github.com/mohdhuzkhn/RAG-App-Education) | Creates structured exam papers from PDFs, images, and spreadsheets, then exports Word documents | Python · Streamlit · Gemini |
+---
+
+
+## 🧠 AI/ML Skills
+
+![LLMs](https://img.shields.io/badge/LLMs%20%26%20Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
+![PEFT](https://img.shields.io/badge/PEFT%20%26%20Fine--Tuning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ModelEval](https://img.shields.io/badge/Model%20Evaluation%20%26%20Debugging-6E40C9?style=for-the-badge&logo=probot&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n%20AI%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-00A67E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+---
+
+## 🛠️ Tech Stack
 
 ## System stack
 
@@ -40,34 +55,59 @@ open_to: [Freelance Projects, Collaborations, Co-founder Conversations]
 
 </div>
 
-`AI` LLMs · RAG · Agentic workflows · Prompt engineering · Model evaluation · Fine-tuning  
-`Backend` Python · FastAPI · Django · PostgreSQL · Redis  
-`Product` TypeScript · React · Next.js · Streamlit · Firebase · Supabase  
-`Delivery` Docker · GitHub Actions · CI/CD · Git
+**AI/ML**
 
-## Current signals
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-<div align="center">
+<!-- **Web & Full-Stack**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohdhuzkhn&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=B56CFF&text_color=C9D7F0&ring_color=00E5FF" alt="Huzaifa's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdhuzkhn&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=C9D7F0" alt="Huzaifa's most used languages" />
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdhuzkhn&bg_color=00000000&color=00E5FF&line=B56CFF&point=FF4D8D&area=true&hide_border=true" alt="Huzaifa's contribution graph" />
+**Automation & Tools**
 
-</div>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## Beyond the code
+---
 
-I’m a Computer Science student at the University of Karachi, turning AI research into usable products. I’m especially interested in retrieval quality, grounded generation, agent workflows, and automation that removes repetitive work from real businesses.
+## 📺 I teach on YouTube
 
-I also run [Code Road](https://www.youtube.com/@CodeRoad-k7k), where I break down computer science and programming concepts for students.
+Running **[Code Road](https://www.youtube.com/@CodeRoad-k7k)** — breaking down CS and programming concepts for students. Assembly Language series live, AI/ML content coming soon.
 
-<div align="center">
+---
 
-### Let’s build something useful.
+<!-- ## 📊 GitHub Stats
 
-[Start a conversation on LinkedIn](https://www.linkedin.com/in/muhammad-huzaifa-6b396a26a/) · [Explore my repositories](https://github.com/mohdhuzkhn?tab=repositories) · [Watch Code Road](https://www.youtube.com/@CodeRoad-k7k)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdhuzkhn&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdhuzkhn&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="160"/>
+</p>
 
-<sub>Build things that matter · Ship · Learn in public</sub>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdhuzkhn&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
 
-</div>
+--- -->
+
+## 📬 Let's connect
+
+Open to **freelance AI projects**, **co-founder conversations**, and **collaborations** in AI/ML.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-huzaifa-6b396a26a/) — DM me there for business
+- 🐦 [X / Twitter](https://x.com/Huzaifa_khn_) — I tweet about AI and building in public
+- 📺 [YouTube](https://www.youtube.com/@CodeRoad-k7k) — Code Road tutorials
+
+---
+
+<p align="center">
+  <em>"Build things that matter. Ship before you're ready. Learn in public."</em>
+</p>
